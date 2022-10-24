@@ -1,0 +1,11 @@
+C:\Proj\GitHub\HRS\HRS\bin\Debug\HRS.exe.config
+C:\Proj\GitHub\HRS\HRS\bin\Debug\HRS.exe
+C:\Proj\GitHub\HRS\HRS\bin\Debug\HRS.pdb
+C:\Proj\GitHub\HRS\HRS\obj\Debug\HRS.csproj.AssemblyReference.cache
+C:\Proj\GitHub\HRS\HRS\obj\Debug\HRS.csproj.SuggestedBindingRedirects.cache
+C:\Proj\GitHub\HRS\HRS\obj\Debug\HRS.Form1.resources
+C:\Proj\GitHub\HRS\HRS\obj\Debug\HRS.Properties.Resources.resources
+C:\Proj\GitHub\HRS\HRS\obj\Debug\HRS.csproj.GenerateResource.cache
+C:\Proj\GitHub\HRS\HRS\obj\Debug\HRS.csproj.CoreCompileInputs.cache
+C:\Proj\GitHub\HRS\HRS\obj\Debug\HRS.exe
+C:\Proj\GitHub\HRS\HRS\obj\Debug\HRS.pdb
